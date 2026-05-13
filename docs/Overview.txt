@@ -1,0 +1,6 @@
+The document provides:
+
+- Conceptual workflow description  
+- Explanation of sampling strategies  
+- Validation and diagnostics  
+- Interpretation of individual samples via Google Earth  
